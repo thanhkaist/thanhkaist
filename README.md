@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I am Thanh 👋
 
-<!--
-**thanhkaist/thanhkaist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ✨ a software programmer ✨ who is interested in programming and making things happen.
 
-Here are some ideas to get you started:
+- 🔭 Things that can discuss with me: machine learning, deep learning, embedded software, Qt programming.
+- 📫 How to reach me: thanhnguyen@kaist.ac.kr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Thanhkaist's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhkaist&show_icons=true&theme=radical
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhkaist&langs_count=6)](https://https://github.com/thanhkaist/thanhkaist)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanhkaist)](https://git.io/streak-stats)
