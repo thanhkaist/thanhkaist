@@ -2,7 +2,7 @@
 
 I am ✨ a software programmer ✨ who is interested in programming and making things happen.
 
-- 🔭 Things that can discuss with me: machine learning, deep learning, embedded software, Qt programming.
+- 🔭 Things that can be discussed with me: machine learning, deep learning, embedded software, Qt programming.
 - 📫 How to reach me: thanhnguyen@kaist.ac.kr
 
 
