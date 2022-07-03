@@ -6,6 +6,21 @@ I am ✨ a software programmer ✨ who is interested in programming and making t
 - 📫 How to reach me: thanhnguyen@kaist.ac.kr
 
 
-![Thanhkaist's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhkaist&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhkaist&langs_count=3&hide=Jupyter%20Notebook)](https://https://github.com/thanhkaist/thanhkaist)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanhkaist)](https://git.io/streak-stats)
+### Analytics ⚙️
+  
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhkaist" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+</p>  
+  
+<p align="left">
+<a href="https://github.com/thanhkaist">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thanhkaist&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhkaist&layout=compact&langs_count=8&hide=Jupyter%20Notebook"/>
+</a>
+</p>
+
+
+
+
+
