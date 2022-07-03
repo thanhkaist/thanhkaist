@@ -6,7 +6,7 @@ I am ✨ a software programmer ✨ who is interested in programming and making t
 - 📫 How to reach me: thanhnguyen@kaist.ac.kr
 
 
-![Thanhkaist's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhkaist&show_icons=true&theme=radical
+![Thanhkaist's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhkaist&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhkaist&langs_count=6)](https://https://github.com/thanhkaist/thanhkaist)
 
