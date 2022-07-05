@@ -15,8 +15,8 @@ I am ✨ a software programmer ✨ who is interested in programming and making t
   
 <p align="left">
 <a href="https://github.com/thanhkaist">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thanhkaist&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhkaist&layout=compact&langs_count=8&hide=Jupyter%20Notebook"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=thanhkaist&count_private=true&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhkaist&layout=compact&langs_count=8&hide=Jupyter%20Notebook"/>
 </a>
 </p>
 
